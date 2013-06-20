@@ -1,0 +1,21 @@
+body
+{
+    padding-top: 40px;
+}
+.friends-box
+{
+    max-height: 400px;
+    overflow: scroll;
+    overflow-x: hidden;
+}
+.friends-box li
+{
+    min-width: 200px;
+    border-bottom: 1px solid #CCC;
+}
+.friends-box img
+{
+    width: 24px;
+    height: 24px;
+    padding: 5px;
+}
