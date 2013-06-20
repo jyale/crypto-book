@@ -1,0 +1,59 @@
+[23-Feb-2013 02:54:34] PHP Parse error:  syntax error, unexpected T_STRING in /home/mahan9/public_html/login.php on line 45
+[23-Feb-2013 02:54:56] PHP Parse error:  syntax error, unexpected T_STRING in /home/mahan9/public_html/login.php on line 45
+[23-Feb-2013 02:54:58] PHP Parse error:  syntax error, unexpected T_STRING in /home/mahan9/public_html/login.php on line 45
+[23-Feb-2013 02:55:27] PHP Parse error:  syntax error, unexpected T_STRING in /home/mahan9/public_html/login.php on line 45
+[23-Feb-2013 02:55:28] PHP Parse error:  syntax error, unexpected T_STRING in /home/mahan9/public_html/login.php on line 45
+[23-Feb-2013 02:55:29] PHP Parse error:  syntax error, unexpected T_STRING in /home/mahan9/public_html/login.php on line 45
+[23-Feb-2013 03:41:11] PHP Parse error:  syntax error, unexpected T_STRING in /home/mahan9/public_html/send_msg.php on line 8
+[23-Feb-2013 03:41:37] PHP Parse error:  syntax error, unexpected T_STRING in /home/mahan9/public_html/send_msg.php on line 8
+[23-Feb-2013 03:48:26] PHP Parse error:  syntax error, unexpected '<' in /home/mahan9/public_html/encrypt.php on line 15
+[23-Feb-2013 16:12:11] PHP Warning:  require_once(facebook.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/mahan9/public_html/test.php on line 2
+[23-Feb-2013 16:12:11] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'facebook.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mahan9/public_html/test.php on line 2
+[23-Feb-2013 16:17:28] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/mahan9/public_html/test.php:4) in /home/mahan9/public_html/php-sdk/facebook.php on line 49
+[23-Feb-2013 16:20:04] PHP Warning:  require(../src/facebook.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/mahan9/public_html/test.php on line 18
+[23-Feb-2013 16:20:04] PHP Warning:  require(../src/facebook.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/mahan9/public_html/test.php on line 18
+[23-Feb-2013 16:20:04] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required '../src/facebook.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mahan9/public_html/test.php on line 18
+[23-Feb-2013 16:20:05] PHP Warning:  require(../src/facebook.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/mahan9/public_html/test.php on line 18
+[23-Feb-2013 16:20:05] PHP Warning:  require(../src/facebook.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/mahan9/public_html/test.php on line 18
+[23-Feb-2013 16:20:05] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required '../src/facebook.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mahan9/public_html/test.php on line 18
+[23-Feb-2013 16:20:06] PHP Warning:  require(../src/facebook.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/mahan9/public_html/test.php on line 18
+[23-Feb-2013 16:20:06] PHP Warning:  require(../src/facebook.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/mahan9/public_html/test.php on line 18
+[23-Feb-2013 16:20:06] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required '../src/facebook.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mahan9/public_html/test.php on line 18
+[23-Feb-2013 16:21:24] CSRF state token does not match one provided.
+[23-Feb-2013 16:30:20] PHP Parse error:  syntax error, unexpected '.' in /home/mahan9/public_html/test.php on line 84
+[23-Feb-2013 16:30:21] PHP Parse error:  syntax error, unexpected '.' in /home/mahan9/public_html/test.php on line 84
+[23-Feb-2013 16:32:09] PHP Parse error:  syntax error, unexpected '}' in /home/mahan9/public_html/test.php on line 85
+[23-Feb-2013 16:32:10] PHP Parse error:  syntax error, unexpected '}' in /home/mahan9/public_html/test.php on line 85
+[23-Feb-2013 18:32:24] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/mahan9/public_html/friends.php:2) in /home/mahan9/public_html/php-sdk/facebook.php on line 49
+[23-Feb-2013 18:32:24] PHP Fatal error:  Call to undefined method Facebook::require_login() in /home/mahan9/public_html/friends.php on line 40
+[23-Feb-2013 18:33:31] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/mahan9/public_html/friends.php:2) in /home/mahan9/public_html/php-sdk/facebook.php on line 49
+[23-Feb-2013 18:33:31] Shared session ID cookie could not be set! You must ensure you create the Facebook instance before headers have been sent. This will cause authentication issues after the first request.
+[23-Feb-2013 18:33:31] PHP Fatal error:  Call to undefined method Facebook::require_login() in /home/mahan9/public_html/friends.php on line 40
+[23-Feb-2013 18:33:34] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/mahan9/public_html/friends.php:2) in /home/mahan9/public_html/php-sdk/facebook.php on line 49
+[23-Feb-2013 18:33:34] Shared session ID cookie could not be set! You must ensure you create the Facebook instance before headers have been sent. This will cause authentication issues after the first request.
+[23-Feb-2013 18:33:34] PHP Fatal error:  Call to undefined method Facebook::require_login() in /home/mahan9/public_html/friends.php on line 40
+[23-Feb-2013 18:33:59] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/mahan9/public_html/friends.php:2) in /home/mahan9/public_html/php-sdk/facebook.php on line 49
+[23-Feb-2013 18:33:59] Shared session ID cookie could not be set! You must ensure you create the Facebook instance before headers have been sent. This will cause authentication issues after the first request.
+[23-Feb-2013 18:33:59] PHP Fatal error:  Call to undefined method Facebook::require_login() in /home/mahan9/public_html/friends.php on line 40
+[23-Feb-2013 18:34:01] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/mahan9/public_html/friends.php:2) in /home/mahan9/public_html/php-sdk/facebook.php on line 49
+[23-Feb-2013 18:34:01] Shared session ID cookie could not be set! You must ensure you create the Facebook instance before headers have been sent. This will cause authentication issues after the first request.
+[23-Feb-2013 18:34:01] PHP Fatal error:  Call to undefined method Facebook::require_login() in /home/mahan9/public_html/friends.php on line 40
+[23-Feb-2013 18:35:13] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/mahan9/public_html/friends.php:2) in /home/mahan9/public_html/php-sdk/facebook.php on line 49
+[23-Feb-2013 18:35:13] Shared session ID cookie could not be set! You must ensure you create the Facebook instance before headers have been sent. This will cause authentication issues after the first request.
+[23-Feb-2013 18:35:13] PHP Fatal error:  Call to undefined method Facebook::require_login() in /home/mahan9/public_html/friends.php on line 40
+[23-Feb-2013 19:20:56] PHP Parse error:  syntax error, unexpected ':' in /home/mahan9/public_html/encrypt.php on line 6
+[23-Feb-2013 20:53:18] PHP Parse error:  syntax error, unexpected '<' in /home/mahan9/public_html/send_msg.php on line 14
+[24-Feb-2013 01:48:14] PHP Warning:  require(googl.class.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/mahan9/public_html/createkey.php on line 7
+[24-Feb-2013 01:48:14] PHP Warning:  require(googl.class.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/mahan9/public_html/createkey.php on line 7
+[24-Feb-2013 01:48:14] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'googl.class.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mahan9/public_html/createkey.php on line 7
+[24-Feb-2013 03:39:27] PHP Parse error:  syntax error, unexpected T_STRING in /home/mahan9/public_html/encrypt.php on line 19
+[24-Feb-2013 17:54:50] PHP Parse error:  syntax error, unexpected ':' in /home/mahan9/public_html/encrypt.php on line 21
+[24-Feb-2013 20:02:58] CSRF state token does not match one provided.
+[24-Feb-2013 20:14:49] CSRF state token does not match one provided.
+[24-Feb-2013 20:14:49] CSRF state token does not match one provided.
+[08-Mar-2013 17:10:15] PHP Parse error:  syntax error, unexpected ';' in /home/mahan9/public_html/ibe-decrypt.php on line 58
+[10-Mar-2013 23:57:42] PHP Fatal error:  Call to a member function api() on a non-object in /home/mahan9/public_html/ibe-decrypt.php on line 38
+[10-Mar-2013 23:57:47] PHP Fatal error:  Call to a member function api() on a non-object in /home/mahan9/public_html/ibe-decrypt.php on line 38
+[11-Mar-2013 00:09:21] PHP Parse error:  syntax error, unexpected '}' in /home/mahan9/public_html/ibe-decrypt.php on line 52
+[11-Mar-2013 14:10:27] PHP Warning:  require_once(facebook-platform/php/facebook.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/mahan9/public_html/index.php on line 14
+[11-Mar-2013 14:10:27] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'facebook-platform/php/facebook.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mahan9/public_html/index.php on line 14
